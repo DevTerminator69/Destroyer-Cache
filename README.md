@@ -2,7 +2,7 @@ Here's a README file with examples for your `Destroyer` cache. This README inclu
 
 ---
 
-# Destroyer Cache
+# Destroyer Fast Cache
 
 `Destroyer` is a high-performance, in-memory caching solution for Node.js, built to handle temporary data storage with lightning speed. It supports automatic expiration, numeric operations, and robust error handling, making it perfect for applications requiring quick and easy data access.
 
