@@ -19,7 +19,7 @@ Here's a README file with examples for your `Destroyer` cache. This README inclu
 To install `Destroyer` in your project, run:
 
 ```bash
-npm install destroyercache
+npm install destroyer-fast-cache
 ```
 
 ## Getting Started
