@@ -23,7 +23,7 @@ npm install destroyer-fast-cache
 ## Getting Started
 
 ```javascript
-const { Destroyer } = require('destroyercache');
+const { Destroyer } = require('destroyer-fast-cache');
 const cache = new Destroyer();
 ```
 
