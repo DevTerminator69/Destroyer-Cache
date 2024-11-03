@@ -2,7 +2,7 @@
   "name": "destroyer-fast-cache",
   "version": "1.0.0",
   "description": "The Destroyer cache is a high-performance, in-memory caching solution designed for fast, temporary data storage with support for automatic expiration and simple numeric operations. Built for speed and efficiency, Destroyer uses a priority queue to manage item expirations and a background process to automatically clean up expired items, keeping the cache lean and effective.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
