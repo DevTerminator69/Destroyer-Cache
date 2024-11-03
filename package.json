@@ -1,0 +1,42 @@
+{
+  "name": "destroyercache",
+  "version": "1.0.0",
+  "description": "The Destroyer cache is a high-performance, in-memory caching solution designed for fast, temporary data storage with support for automatic expiration and simple numeric operations. Built for speed and efficiency, Destroyer uses a priority queue to manage item expirations and a background process to automatically clean up expired items, keeping the cache lean and effective.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cache",
+    "temp-data",
+    "fastest-cache",
+    "faster-cache",
+    "speedy-cache",
+    "in-memory-cache",
+    "data-expiry",
+    "data-storage",
+    "priority-queue-cache",
+    "numeric-cache",
+    "javascript-cache",
+    "key-value-storage",
+    "ttl-cache",
+    "data-cleanup",
+    "multi-instance-cache",
+    "lightweight-cache",
+    "cache-operations",
+    "high-performance-cache"
+  ],
+  "author": "devdestroyer",
+  "license": "ISC",
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevTerminator69/destroyercache.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevTerminator69/destroyercache/issues"
+  },
+  "homepage": "https://github.com/DevTerminator69n/destroyercache#readme"
+}
