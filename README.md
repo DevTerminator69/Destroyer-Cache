@@ -1,6 +1,4 @@
-Here's a README file with examples for your `Destroyer` cache. This README includes installation instructions, usage examples, and details about each command.
 
----
 
 # Destroyer Fast Cache
 
