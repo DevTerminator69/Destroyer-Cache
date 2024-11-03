@@ -89,4 +89,4 @@ class Destroyer {
   }
 }
 
-module.exports = Destroyer;
+module.exports = { Destroyer };
